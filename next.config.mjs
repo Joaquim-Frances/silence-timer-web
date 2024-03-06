@@ -6,6 +6,10 @@ images: {
             protocol: 'https',
             hostname: 'play.google.com',
         },
+        {
+            protocol: 'https',
+            hostname: 'img.buymeacoffee.com',
+        },
     ],
 }
 
